@@ -2,7 +2,8 @@
 using namespace std;
 int square(int x)
 {
-	return x*x;
+	int y=x*x;
+	return y;
 }
 
 int main()
